@@ -1,0 +1,1 @@
+"C:\Program Files\nodejs\node.exe" F:\eclipse\diamond\node_modules\protractor\built\cli.js F:\eclipse\diamond\conf.js
