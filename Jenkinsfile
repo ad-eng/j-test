@@ -1,5 +1,5 @@
 pipeline {
-    agent Diamond
+    agent any
     stages {
         stage('Test') {
             steps {
