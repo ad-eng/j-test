@@ -3,6 +3,7 @@ pipeline {
     stages {
         stage('build'){
         steps{
+            bat 'cp'
               }
         }    
         stage('Test') {
@@ -12,6 +13,7 @@ pipeline {
         }
         stage('deploy'){
         steps{
+            bat 'cp'
         }
     }
 }
